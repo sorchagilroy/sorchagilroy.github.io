@@ -4,15 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! My name is Sorcha Gilroy and I'm a data scientist working at [Peak](peak.ai) in Manchester, UK. I've been at Peak since June 2019 and before that did a PhD in natural language processing at the University of Edinburgh. I've always had a strong interest in science communication and so I decided to start writing this blog. It's intended to be introductory and for a totally non technical audience. If there's something in this area you've always wanted to know about, feel free to send suggestions via twitter or email (both linked below).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
